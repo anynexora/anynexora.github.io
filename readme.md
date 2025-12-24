@@ -1,9 +1,14 @@
-<img src="./asset/promptatlas_logo_long.png" alt="logo" style="display: block; margin: 0 auto;" width="25%">
+<!-- <div style="text-align: center;">
+  <img src="./asset/promptatlas_logo_long.png" alt="logo" style="display: block; margin: 0 auto;" width="25%">
+</div> -->
 
+<div align="center">
+  <img src="./asset/promptatlas_logo_long.png" alt="PromptAtlas Logo" width="25%">
+</div>
 
-<br>
-<h1 style="text-align: center;">PromptAtlas – AI Prompt Library</h1>
-
+<div align="center">
+  <h1 style="text-align: center;">PromptAtlas – AI Prompt Library</h1>
+</div>
 
 **<h3 style="text-align: center;">Where Great Prompts Shape Great AI</h3>**
 
@@ -15,7 +20,7 @@ The project aggregates some of the **best, ready-to-use prompts** from the AI co
 
 Find PromptAtlas website here 👉 https://anynexora.io/promptatlas 
 
-<img src="./asset/promptatlas_page.png" alt="PromptAtlas page" style="display: block; margin: 0" width="50%">
+<img src="./asset/promptatlas_page.png" alt="PromptAtlas page" style="display: block; margin: 0" width="70%">
 
 <br>
 
@@ -171,7 +176,7 @@ Prompts focused on realistic portrait, anime/manga/cartoon/film characters, crea
 
 Upload a photo of simple selfie and generate a street shoot from a cat's POV.
 
-<img src="./pics/street_shoot_cat.jpeg" alt="preview image" style="display: block; margin: 0;" width="35%">
+<img src="./pics/street_shoot_cat.jpeg" alt="preview image" style="display: block; margin: 0;" width="45%">
 
 <br>
 
@@ -193,7 +198,7 @@ Source: [@NanoBanana_labs](https://x.com/NanoBanana_labs/status/1991846934844174
 
 Upload a photo of portrait and generate a black & white double exposure.
 
-<img src="./pics/double_exposure_woman.jpeg" alt="preview image" style="display: block; margin: 0;" width="35%">
+<img src="./pics/double_exposure_woman.jpeg" alt="preview image" style="display: block; margin: 0;" width="45%">
 
 <br>
 
@@ -214,7 +219,7 @@ Prompts focused on thumbnails, avatar/PFP, memes/emojis/stickers, social posts v
 
 Upload a photo of a pet and generate pet emoji packs.
 
-<img src="./pics/pet_emoji_cat.png" alt="preview image" style="display: block; margin: 0;" width="45%">
+<img src="./pics/pet_emoji_cat.png" alt="preview image" style="display: block; margin: 0;" width="55%">
 
 <br>
 
@@ -234,7 +239,7 @@ Source: [@01Founder](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 Generate a viral video thumbnail using the person of the upload reference photo.
 
-<img src="./pics/viral_thumbnail.png" alt="preview image" style="display: block; margin: 0;" width="45%">
+<img src="./pics/viral_thumbnail.png" alt="preview image" style="display: block; margin: 0;" width="55%">
 
 <br>
 
@@ -259,7 +264,7 @@ Prompts focused on landscape, cityscape, architecture, cyberpunk, outdoor/interi
 
 Generate a digital poster of a floating miniature island shaped like [city].
 
-<img src="./pics/castle_sky_macao.jpg" alt="preview image" style="display: block; margin: 0;" width="35%">
+<img src="./pics/castle_sky_macao.jpg" alt="preview image" style="display: block; margin: 0;" width="45%">
 
 <br>
 
@@ -275,7 +280,7 @@ Source: @岸久舞若衣 (Wechat OA)
 
 Generate an image of a landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE].
 
-<img src="./pics/cave_shape_bird.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/cave_shape_bird.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -296,7 +301,7 @@ Prompts focused on product photography, try-on, food, figurine, marketing poster
 
 Generate an advertising-style food photography.
 
-<img src="./pics/food_ads_ramen.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/food_ads_ramen.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -313,7 +318,7 @@ Source: [@NanoBanana](https://x.com/nanobanana/status/1997460283669831973)
 
 Generate a 3D chibi-style miniature concept store of Starbucks.
 
-<img src="./pics/3d_q_miniature_store_starbucks.jpeg" alt="preview image" style="display: block; margin: 0;" width="35%">
+<img src="./pics/3d_q_miniature_store_starbucks.jpeg" alt="preview image" style="display: block; margin: 0;" width="45%">
 
 <br>
 
@@ -335,7 +340,7 @@ Prompts focused on App icons, UI illustrations, web assets, hero image, etc.
 
 Generate UI mockup from wireframe.
 
-<img src="./pics/ui_mockup_wireframe_2.png" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/ui_mockup_wireframe_2.png" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -355,7 +360,7 @@ Prompts focused on logo, poster, name card, packaging, IP mascot, T-shirt Design
 
 Generate a typographic illustration shaped like a headphone.
 
-<img src="./pics/typographic_logos.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/typographic_logos.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -372,7 +377,7 @@ Source: [@TechieBySA](https://x.com/TechieBySA/status/1995534771158442290)
 
 Generate a poster for real-Time finance data visualization.
 
-<img src="./pics/search_data_visualization.png" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/search_data_visualization.png" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -388,7 +393,7 @@ Source: [@Guillaume Vernade](https://dev.to/googleai/nano-banana-pro-prompting-g
 
 Generate a photo of a glossy magazine article with input text.
 
-<img src="./pics/article_magazine_eng.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/article_magazine_eng.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -407,7 +412,7 @@ Prompts focused on game assets, textures, character design, sprite, chibi isomet
 #### 7.1 Game Sprites
 
 
-<img src="./pics/sprites_backflip.png" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/sprites_backflip.png" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -423,7 +428,7 @@ Source: [@Guillaume Vernade](https://dev.to/googleai/nano-banana-pro-prompting-g
 
 Generate a 3D isometric colored illustration of working space.
 
-<img src="./pics/3d_isometric_myworkingroom.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/3d_isometric_myworkingroom.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -444,7 +449,7 @@ Prompts focused on education graphics, knowledge infographics, data viz, cover i
 
 Generate a pop-up miniature of Tokyo rises from a laser-cut slit across the Asia map.
 
-<img src="./pics/popup_atlas_tokyo.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/popup_atlas_tokyo.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -460,7 +465,7 @@ Source: [@Gdgtify](https://x.com/Gdgtify/status/1995886174058283387)
 
 Generate a colorful crayon and colored-pencil drawing of a city.
 
-<img src="./pics/kid_drawn_hongkong.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/kid_drawn_hongkong.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -479,7 +484,7 @@ Prompts focused on creative works, art photography, entertainment, etc.
 
 Generate a surreal, dreamlike photograph of a complete office environment submerged deep underwater. 
 
-<img src="./pics/surreal_underwater_office.jpeg" alt="preview image" style="display: block; margin: 0;" width="35%">
+<img src="./pics/surreal_underwater_office.jpeg" alt="preview image" style="display: block; margin: 0;" width="45%">
 
 <br>
 
@@ -495,7 +500,7 @@ Source: [@johnAGI168](https://x.com/johnAGI168/status/1996825429584560244)
 
 Generate a giant people or animals positioned in the urban scenerio.
 
-<img src="./pics/giant_sea_toddler.jpg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/giant_sea_toddler.jpg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -515,7 +520,7 @@ Prompts focused on academic illustration, science research, etc.
 
 Generate professional scientific illustration for a top-tier machine learning academic paper. 
 
-<img src="./pics/loss_illu_1.jpg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/loss_illu_1.jpg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -536,7 +541,7 @@ Prompts focused on inpainting, outpainting, object removal, object editing, colo
 
 Upload an old, damaged photo and repair it.
 
-<img src="./pics/old_photo_restoration.jpeg" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/old_photo_restoration.jpeg" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
@@ -552,13 +557,13 @@ Source: [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/199760324629963601
 
 Remove the tourists from the background of the upload photo.
 
-<img src="./pics/object_removal.png" alt="preview image" style="display: block; margin: 0;" width="40%">
+<img src="./pics/object_removal.png" alt="preview image" style="display: block; margin: 0;" width="50%">
 
 <br>
 
 Prompt content: 
 
-> Remove all the tourists/people in the background behind the main subject. Intelligent Fill : Replace them with realistic background elements that logically fit the scene (e.g., extend the cobblestone pavement, empty park benches, or grass textures). Consistency : Ensure no blurry artifacts or 'smudges' remain. The filled area must have the same grain, focus depth, and lighting as the rest of the photo.    
+> Remove all the tourists/people in the background behind the main subject. Intelligent Fill: Replace them with realistic background elements that logically fit the scene (e.g., extend the cobblestone pavement, empty park benches, or grass textures). Consistency: Ensure no blurry artifacts or 'smudges' remain. The filled area must have the same grain, focus depth, and lighting as the rest of the photo.    
 
 
 Source: [@Guillaume Vernade](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
