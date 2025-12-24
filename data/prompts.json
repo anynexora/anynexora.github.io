@@ -5,7 +5,7 @@
     "name_zh": "与哆啦A梦一起飞翔",
     "category": "nano_prompt",
     "tags": ["Nano Banana Pro", "text-to-image", "Character", "portrait"],
-    "image": "./public/data/pics/flying_daraemon.jpeg",
+    "image": "/data/pics/flying_daraemon.jpeg",
     "english": [
       "Create a realistic, high-angle image, looking down from the sky. It shows me with the face from the attached file, wearing a long-sleeved yellow polo shirt with a white collar, the shirt neatly tucked into blue shorts, and blue shoes. I am floating in the sky using a small bamboo copter attached to my head, flying towards the camera, alongside Doraemon, who is also flying next to me with a small bamboo copter attached to his head. Both of us look joyful.",
       "Below is a large city with Japanese-style houses with tiled roofs, lush green trees, and a high hill in the center of the city. The atmosphere is bright and clear, with soft sunlight and light clouds floating by.",
@@ -26,7 +26,7 @@
     "name_zh": "漂浮的人",
     "category": "nano_prompt",
     "tags": ["Nano Banana Pro", "text-to-image", "Character", "portrait"],
-    "image": "./public/data/pics/floating_man.jpeg",
+    "image": "/data/pics/floating_man.jpeg",
     "english": [
       "A man (the face according to the reference photo is 100% similar), who is floating in a modern minimalist style room. He is wearing a stylish black blazer, gray pants, and white sneakers.",
       "The man seemed to lean back in the air as if sitting on an invisible chair – one leg bent and the other leg stretched forward.",
@@ -50,7 +50,7 @@
     "name_zh": "破牌女巫",
     "category": "nano_prompt",
     "tags": ["Nano Banana Pro", "text-to-image", "Character", "portrait", "poster"],
-    "image": "./public/data/pics/breaking_queen.jpeg",
+    "image": "/data/pics/breaking_queen.jpeg",
     "english": [
       "A hyper-realistic cinematic movie poster of a powerful female sorcerer with the same facial structure and likeness as the uploaded reference photo, bursting through a cracked Queen of Spades playing card.",
       "The card explodes outward with stone fragments, dust, and debris frozen mid-air.",
