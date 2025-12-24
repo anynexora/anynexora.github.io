@@ -1,5 +1,5 @@
 <!-- <div style="text-align: center;">
-  <img src="./asset/promptatlas_logo_long.png" alt="logo" style="display: block; margin: 0 auto;" width="25%">
+  <img src="./asset/promptatlas_logo_long.png" alt="logo" style="display: block; margin: 0 auto;" width="45%">
 </div> -->
 
 <div align="center">
