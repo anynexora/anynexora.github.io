@@ -10,11 +10,14 @@
 
 Our mission is to make AI truly accessible and easy to use for everyone, driving inclusive technological progress and ultimately harnessing artificial intelligence to create a better, more wonderful life and society for all.
 
-You're welcome to follow **PromptAtlas** - Your AI prompt Library!   
-Check it out 👉 https://anynexora.github.io/promptatlas/   
+
 <a href="https://github.com/anynexora/promptatlas" target="_blank" rel="noopener noreferrer">
-  <img src="./asset/promptatlas_logo_long.png" alt="PromptAtlas Logo" width="300" />
-</a>
+  <img src="./asset/promptatlas_logo_long.png" alt="PromptAtlas Logo" width="150" />
+</a>    
+
+You're welcome to follow our **PromptAtlas** - Your AI prompt Library!   
+Check it out here 👉 https://anynexora.github.io/promptatlas/   
+
 
 --- 
 <div align="left" style="color: #888;">
